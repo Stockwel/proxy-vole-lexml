@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.gov.lexml.external</groupId>
 	<artifactId>proxy-vole-lexml</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPTSHOT</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
